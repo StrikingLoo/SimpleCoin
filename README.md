@@ -36,7 +36,7 @@ There are 2 main scripts:
 
 ### Miner.py
 
-This file is probably the most important. Running it will create a node (like a server). From here you can connect to the blockchain and process transactions (that other users send) by mining. As a reward for this work, you recieve some coins. The more nodes exist, the more secure the blockchain gets.
+This file is probably the most important. Running it will create a node (like a server). From here you can connect to the blockchain and process transactions (that other users send) by mining. As a reward for this work, you receive some coins. The more nodes exist, the more secure the blockchain gets.
 
 ```miner.py``` has 2 processes running in parallel:
 
@@ -65,4 +65,4 @@ Note: the idea of this project is to build a **really simple** blockchain system
 
 ## Disclaimer
 
-By no means this project should be used for real purposes, it lacks security and may contain several bugs.
+By no means should this project be used for real purposes, it lacks security and may contain several bugs.
